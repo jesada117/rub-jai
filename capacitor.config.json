@@ -1,0 +1,6 @@
+{
+  "appId": "com.rubjai.app",
+  "appName": "Rub-Jai",
+  "webDir": "www",
+  "android": { "backgroundColor": "#070a12" }
+}
